@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bawa-apaar
+- 👋 Hi, I’m Apaar Bawa
 - 👀 I’m interested in Machine Learning
 - 📫 How to reach me apaar.bawa@gmail.com or https://www.linkedin.com/in/apaar-bawa-909a84127/
 

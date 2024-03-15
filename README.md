@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apaar Bawa
 - 👀 I’m interested in Machine Learning
-- 📫 How to reach me bawa.apaar@gmail.com or https://www.linkedin.com/in/apaar-bawa-909a84127/
+- 📫 How to reach me bawa.apaar@gmail.com or linkedin.com/in/apaar-bawa/
 
 <!---
 bawa-apaar/bawa-apaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
